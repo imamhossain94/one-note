@@ -28,3 +28,13 @@ C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms S
 C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One Note.csproj.CoreCompileInputs.cache
 C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One Note.exe
 C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One Note.pdb
+D:\CSharpProjects\One Note\bin\Debug\One Note.exe.config
+D:\CSharpProjects\One Note\bin\Debug\One Note.exe
+D:\CSharpProjects\One Note\bin\Debug\One Note.pdb
+D:\CSharpProjects\One Note\obj\Debug\One Note.csprojAssemblyReference.cache
+D:\CSharpProjects\One Note\obj\Debug\One_Note.OneNote.resources
+D:\CSharpProjects\One Note\obj\Debug\One_Note.Properties.Resources.resources
+D:\CSharpProjects\One Note\obj\Debug\One Note.csproj.GenerateResource.cache
+D:\CSharpProjects\One Note\obj\Debug\One Note.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\One Note\obj\Debug\One Note.exe
+D:\CSharpProjects\One Note\obj\Debug\One Note.pdb
