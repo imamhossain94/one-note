@@ -21,12 +21,10 @@ I used three giant application to making this application:
 
 
 ```
-<ul>
-	<li>Open Sql Server Management Studio and create a database named "one_NoteDataSet".</li>
-	<li>Execute the sql query given in path-project/database/OneNoteQuery.sql</li>
-	<li>Load project into Visual Studio</li>
-	<li>Build, Run & Enjoy!!</li>
-</ul>
+• Open Sql Server Management Studio and create a database named "one_NoteDataSet".
+• Execute the sql query given in path-project/database/OneNoteQuery.sql
+• Load project into Visual Studio
+• Build, Run & Enjoy!!
 ```
 
 
