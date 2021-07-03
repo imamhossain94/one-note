@@ -1,0 +1,30 @@
+F:\Project\One Note\bin\Debug\One Note.exe.config
+F:\Project\One Note\bin\Debug\One Note.exe
+F:\Project\One Note\bin\Debug\One Note.pdb
+F:\Project\One Note\obj\Debug\One Note.csprojAssemblyReference.cache
+F:\Project\One Note\obj\Debug\One_Note.Form1.resources
+F:\Project\One Note\obj\Debug\One_Note.Properties.Resources.resources
+F:\Project\One Note\obj\Debug\One Note.csproj.GenerateResource.cache
+F:\Project\One Note\obj\Debug\One Note.csproj.CoreCompileInputs.cache
+F:\Project\One Note\obj\Debug\One Note.exe
+F:\Project\One Note\obj\Debug\One Note.pdb
+F:\Projects\One Note\bin\Debug\One Note.exe.config
+F:\Projects\One Note\bin\Debug\One Note.exe
+F:\Projects\One Note\bin\Debug\One Note.pdb
+F:\Projects\One Note\obj\Debug\One Note.csprojAssemblyReference.cache
+F:\Projects\One Note\obj\Debug\One_Note.Properties.Resources.resources
+F:\Projects\One Note\obj\Debug\One Note.csproj.GenerateResource.cache
+F:\Projects\One Note\obj\Debug\One Note.csproj.CoreCompileInputs.cache
+F:\Projects\One Note\obj\Debug\One Note.exe
+F:\Projects\One Note\obj\Debug\One Note.pdb
+F:\Projects\One Note\obj\Debug\One_Note.OneNote.resources
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\bin\Debug\One Note.exe.config
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\bin\Debug\One Note.exe
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\bin\Debug\One Note.pdb
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One Note.csprojAssemblyReference.cache
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One_Note.OneNote.resources
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One_Note.Properties.Resources.resources
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One Note.csproj.GenerateResource.cache
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One Note.csproj.CoreCompileInputs.cache
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One Note.exe
+C:\Users\imamh\Downloads\Compressed\One Note Ms Sql Server Edition\One Note Ms Sql Server Edition\One Note\obj\Debug\One Note.pdb
